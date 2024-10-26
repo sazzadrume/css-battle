@@ -1,0 +1,100 @@
+<div class="forhead"></div>
+<div class="cheek"></div>
+<div class="leaf-left"></div>
+<div class="leaf-right"></div>
+<div class="eye-left"></div>
+<div class="eye-right"></div>
+<div class="cheek-circle"></div>
+<div class="cheek-square"></div>
+<div class="teeth-circle"></div>
+<style>
+
+  body{
+    background: #373794;
+
+  .forhead {
+    width: 95px;
+    height: 95px;
+    background-color: #F3AC3C;
+    border-radius: 250px;
+    margin-top: 23%;
+    margin-left: 38%;
+  }
+
+  .cheek {
+    width: 70px;
+    height: 70px;
+    background-color: #0E0E39;
+    border-radius: 250px;
+    margin-top: -8%;
+    margin-left: 40%;
+  }
+
+  .leaf-left {
+	width: 100px;
+	height: 100px;
+	border-radius: 0 90px;
+	background-color: #0E0E39;
+	transform: rotate(-20deg);
+     margin-top: -35%;
+    margin-left: 23%;
+}
+
+   .leaf-right {
+	width: 100px;
+	height: 100px;
+	border-radius: 0 90px;
+	background-color: #0E0E39;
+	transform: rotate(110deg);
+     margin-top: -26%;
+    margin-left: 50%;
+}
+
+    .eye-left {
+	width: 30px;
+	height: 30px;
+	border-radius: 0 90px;
+	background-color: #FFFFFF;
+	transform: rotate(0deg);
+     margin-top: -12%;
+    margin-left: 40%;
+}
+
+   .eye-right {
+	width: 30px;
+	height: 30px;
+	border-radius: 0 90px;
+	background-color: #FFFFFF;
+	transform: rotate(90deg);
+     margin-top: -8%;
+    margin-left: 50%;
+}
+    .cheek-circle {
+    width: 50px;
+    height:50px;
+    background-color: #F3AC3C;
+    border-radius: 250px;
+    margin-top: 2%;
+    margin-left: 43%;
+  }
+
+   .cheek-square {
+    width: 50px;
+    height:25px;
+    background-color: #F3AC3C;
+    /* border-radius: 250px; */
+    margin-top: -13%;
+    margin-left: 43%;
+  }
+
+  .teeth-circle {
+    width: 37px;
+    height:20px;
+    background-color: #FFFFFF;
+    border-radius: 250px;
+    margin-top: -4%;
+    margin-left: 44.5%;
+  }
+
+  
+</style>
