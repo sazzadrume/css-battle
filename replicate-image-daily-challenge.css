@@ -55,21 +55,21 @@
   }
 
   .roundedSquareOne {
-    height: 71px;
-    width: 74.1px;
-    margin-top: 92px;
+    height: 75px;
+    width: 75px;
+    margin-top: 92.01px;
     border-radius: 80px;
-    margin-left: -8.5px;
+    margin-left: -7.8px;
     background-color: #84271C;
     position:absolute;
   }
 
   .roundedSquareTwo {
-    height: 74px;
-    width: 77px;
-    margin-top: 217px;
-    margin-left: 155px;
-    border-radius: 50px;
+    height: 75px;
+    width: 75px;
+    margin-top: 217.1px;
+    margin-left: 157.1px;
+    border-radius: 360px;
     background-color: #84271C;
     position:absolute;
   }
