@@ -1,0 +1,51 @@
+<div>
+  <div class = "verticalLine"></div>
+  <div class = "horizontalLine"></div>
+  <div class = "middleSquareOne"></div>
+  <div class = "middleSquareTwo"></div>
+</div>
+
+<style>
+  
+  body {
+    background-color: #434B92;
+  }
+
+  .verticalLine {
+    width: 50px;
+    height: 110%;
+    margin-top: -10px;
+    background-color: #F3AC3C;
+    margin-left: 167px;
+    position: absolute;
+  }
+
+   .horizontalLine {
+    width: 110%;
+    height: 50px;
+    margin-top: 117px;
+    background-color: #F3AC3C;
+    margin-left: -10px;
+    position:absolute;
+  }
+
+  .middleSquareOne {
+    width: 190px;
+    height: 100px;
+    position: absolute;
+    background-color: #F3AC3C;
+    margin-top: 92px;
+    margin-left: 97px;
+  }
+
+   .middleSquareTwo {
+    width: 100px;
+    height: 190px;
+    position: absolute;
+    background-color: #F3AC3C;
+    margin-top: 47px;
+    margin-left: 142px;
+  }
+
+  
+</style>
