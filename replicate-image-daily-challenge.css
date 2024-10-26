@@ -1,0 +1,98 @@
+<!-- <div class= "square-two"></div> -->
+
+<div class="outer">
+   <div class="squareOne"></div>
+   <div class="squareTwo"></div>
+   <div class="middleRectangle"></div>
+   <div class="roundedSquareOne"></div>
+  <div class="roundedSquareTwo"></div>
+  <div class="roundedSquareThree"></div>
+  <div class="roundedSquareFour"></div>
+</div>
+
+
+<!-- <div class = "squareOne"></div>
+<div class = "squareTwo"></div> -->
+
+
+<style>
+
+  body{
+    background: #191210;
+  }
+
+  .inner {
+  position: absolute;
+}
+
+  .squareOne {
+    height: 180px;
+    width: 200px;
+    background-color: #84271C;
+    margin-top: 130px;
+    position: absolute;
+    margin-left: -10px;
+    /* border-radius: 120px 0px 120px 0px; */
+  }
+
+  .squareTwo {
+    height: 250px;
+    width: 305px;
+    background-color: #84271C;
+    margin-top: -90px;
+    margin-left:185px;
+    position: absolute;
+  }
+
+  .middleRectangle {
+    height: 150px;
+    width: 250px;
+    background-color: #191210;
+    margin-left: 67px;
+    margin-top: 67px;
+    border-radius: 25px;
+    position: absolute;
+  }
+
+  .roundedSquareOne {
+    height: 71px;
+    width: 74.1px;
+    margin-top: 92px;
+    border-radius: 80px;
+    margin-left: -8.5px;
+    background-color: #84271C;
+    position:absolute;
+  }
+
+  .roundedSquareTwo {
+    height: 74px;
+    width: 77px;
+    margin-top: 217px;
+    margin-left: 155px;
+    border-radius: 50px;
+    background-color: #84271C;
+    position:absolute;
+  }
+
+  .roundedSquareThree {
+    height: 74.9px;
+    width: 74.8px;
+    margin-top: -8.01px;
+    margin-left: 151.8px;
+    border-radius: 110px;
+    background-color: #84271C;
+    position:absolute;
+  }
+
+   .roundedSquareFour {
+    height: 75px;
+    width: 75px;
+    margin-top: 116.5px;
+    margin-left: 317px;
+    border-radius: 50px;
+    background-color: #84271C;
+    position:absolute;
+  }
+
+ 
+</style>
