@@ -1,5 +1,3 @@
-<!-- <div class= "square-two"></div> -->
-
 <div class="outer">
    <div class="squareOne"></div>
    <div class="squareTwo"></div>
@@ -9,11 +7,6 @@
   <div class="roundedSquareThree"></div>
   <div class="roundedSquareFour"></div>
 </div>
-
-
-<!-- <div class = "squareOne"></div>
-<div class = "squareTwo"></div> -->
-
 
 <style>
 
@@ -32,7 +25,6 @@
     margin-top: 130px;
     position: absolute;
     margin-left: -10px;
-    /* border-radius: 120px 0px 120px 0px; */
   }
 
   .squareTwo {
@@ -93,6 +85,5 @@
     background-color: #84271C;
     position:absolute;
   }
-
  
 </style>
