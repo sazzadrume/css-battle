@@ -1,0 +1,47 @@
+<div class = "circleOne"></div>
+<div class = "midCircle"></div>
+<div class = "circleTwo"></div>
+<style>
+
+  body {
+    background: #62306D;
+  }
+  
+  div {
+    width: 100px;
+    height: 100px;
+    background: #dd6b4d;
+  }
+
+  .circleOne {
+    height: 80px;
+    width: 100px;
+    background-color: #F7EC7D;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 102px;
+    margin-left: 70.01px
+  }
+
+  .circleTwo {
+    height: 80px;
+    width: 100px;
+    background-color: #F7EC7D;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 102px;
+    margin-left: 214px
+  }
+
+  .midCircle {
+    height: 80px;
+    width: 100px;
+    background-color: #62306D;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 102px;
+    margin-left: 142px
+  }
+
+  
+</style>
